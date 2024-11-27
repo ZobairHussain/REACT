@@ -1,11 +1,11 @@
-const names = ['zobair', 'hussain'];
+import style from './Post.module.css';
 
 export function Post(props) {
     
     return (
-        <div>
-            <p>{props.author}</p>
-            <p>{props.body}</p>
+        <div className={style.post}>
+            <p className={style.author}>{props.author}</p>
+            <p className={style.text}>{props.body}</p>
         </div>
     );
 }
