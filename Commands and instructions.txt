@@ -1,3 +1,8 @@
 npm create vite@latest
 √ Select a framework: » React
 √ Select a variant: » JavaScript
+npm run dev
+
+
+* Function name start with Upper case.
+	Lower case function are the default functions
