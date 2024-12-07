@@ -6,3 +6,5 @@ npm run dev
 
 * Function name start with Upper case.
 	Lower case function are the default functions
+	
+npm install react-icons  
