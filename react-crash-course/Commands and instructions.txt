@@ -10,3 +10,5 @@ npm run dev
 * npm install react-icons  
 * to start the dummy nodejs backend server 
 	npm start
+	
+* npm install react-router-dom
